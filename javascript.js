@@ -11,7 +11,3 @@ var notaFinal = (notaDoPrimeiroBimestre + notaDoSegundoBimestre + notaDoTerceiro
 console.log ("Bem-Vindo " + nome)
 console.log (notaFinal)
 
-//Isso é um comentário
-
-//Revisão
-//Variáveis, string, console.log, tofixed, operações matemáticas, concatenação
